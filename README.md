@@ -13,7 +13,7 @@ You can build your own library, add books, delete books, and track your reading 
 
 ## 🖥️ Screenshots
 ### Home Screen
-![Home]<img src="src/main/resources/assets/home.png" alt="Home" width="400" />
+<img src="src/main/resources/assets/home.png" alt="Home" width="400" />
 
 ### Library Page
 ![Library](rc/main/resources/assets/listOfBook.png)
