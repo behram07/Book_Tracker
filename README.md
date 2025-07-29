@@ -16,7 +16,7 @@ You can build your own library, add books, delete books, and track your reading 
 ![Home Screen] (rc/main/resources/assets/home.png)
 
 ### Library Page
-
+![Library](rc/main/resources/assets/listOfBook.png)
 
 ### Book Details
 ![Details](rc/main/resources/assets/bookDetail1.png)
