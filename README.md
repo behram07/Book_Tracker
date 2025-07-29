@@ -13,13 +13,13 @@ You can build your own library, add books, delete books, and track your reading 
 
 ## 🖥️ Screenshots
 ### Home Screen
-![Home Screen](docs/screenshots/home.png)
+![Home Screen]<img src="assets/sorting.png" width="300"/>
 
 ### Library Page
-![Library](docs/screenshots/library.png)
+![Library](src/main/resources/assets/home.png)
 
 ### Book Details
-![Details](docs/screenshots/details.png)
+![Details](docs/screenshots/bookDetail1.png)
 
 > **Note:** Place screenshots in the `docs/screenshots/` folder.  
 
