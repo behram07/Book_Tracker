@@ -25,9 +25,6 @@ You can build your own library, add books, delete books, and track your reading 
 ### Add Book Page
 <img src="rc/main/resources/assets/addBook.png" alt="Home" width="300" />
 
-
-> **Note:** Place screenshots in the `docs/screenshots/` folder.  
-
 ---
 
 ## ⚙️ Installation and Running
